@@ -1,0 +1,17 @@
+LAYER 0: MEDIA
+Knob:
+-Volume Up
+-Volume Down
+
+
+LAYER 1: ARROWS
+Knob:
+-Scroll Up
+-Scroll Down
+
+Knob Press:
+Media
+  ↓
+ARROWS
+  ↓
+MEDIA

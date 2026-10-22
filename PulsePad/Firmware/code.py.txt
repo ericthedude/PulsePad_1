@@ -1,0 +1,29 @@
+from kmk.kmk_keyboard import KMKKeyboard
+from kmk.keys import KC
+from kmk.modules.layers import Layers
+
+keyboard = KMKKeyboard()
+
+layers = Layers()
+keyboard.modules.append(layers)
+
+keyboard.keymap = [
+
+    # Layer 0 - Media
+    [
+        KC.MPRV,
+        KC.MUTE,
+        KC.MNXT,
+        KC.MPLY
+    ],
+
+    # Layer 1 - Arrows
+    [
+        KC.LEFT,
+        KC.DOWN,
+        KC.RIGHT,
+        KC.UP
+    ]
+]
+
+keyboard.go()

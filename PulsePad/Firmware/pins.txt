@@ -1,0 +1,11 @@
+SW1 -> D8
+SW2 -> D9
+SW3 -> D10
+SW4 -> D0
+
+Encoder A -> D2
+Encoder B -> GND
+Encoder C -> D1
+
+Encoder S1 -> GND
+Encoder S2 -> D3
