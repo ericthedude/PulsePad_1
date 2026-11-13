@@ -44,6 +44,16 @@ Layer 0: Media
 
 Layer 1: Arrows
 
+
+BOM:
+Seeed Xiao RP2040: ~7$
+PCB: ~5-10$
+Heat Set Inserts: ~2$
+M2 Screws: ~1$
+M2 Heat Set Inserts: ~1$
+
+Total: ~16-21$
+
 <img width="769" height="447" alt="image" src="https://github.com/user-attachments/assets/e69d5388-63ea-400e-954b-d2e18ffedd33" />
 <img width="1336" height="791" alt="image" src="https://github.com/user-attachments/assets/35d6d2cb-dcb4-40bf-8789-b882dea086a4" />
 <img width="1215" height="839" alt="image" src="https://github.com/user-attachments/assets/5d3e3839-2076-4686-ad49-fd53c902c508" />
