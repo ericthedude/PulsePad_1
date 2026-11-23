@@ -46,13 +46,15 @@ Layer 1: Arrows
 
 
 [Download BOM.csv](https://github.com/user-attachments/files/35252944/Download.BOM.csv)
-Item,Price ($)
-Seeed XIAO RP2040,7
-PCB,8
-Heat Set Inserts,2
-M2 Screws,1
-M2 Heat Set Inserts,1
-Total,19
+
+|          Item          |  Price ($)  |
+|------------------------|-------------|
+|   Seeed XIAO RP2040    |      7      |
+|           PCB          |      8      |
+|    Heat Set Inserts    |      2      |
+|       M2 Screws        |      1      |
+|   M2 Heat Set Inserts  |      1      |
+|         Total          |      19     |
 
 
 
