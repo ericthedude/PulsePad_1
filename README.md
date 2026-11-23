@@ -45,7 +45,15 @@ Layer 0: Media
 Layer 1: Arrows
 
 
-[Download BOM.xlsx](https://github.com/user-attachments/files/35252922/Download.BOM.xlsx)
+[Download BOM.csv](https://github.com/user-attachments/files/35252944/Download.BOM.csv)
+Item,Price ($)
+Seeed XIAO RP2040,7
+PCB,8
+Heat Set Inserts,2
+M2 Screws,1
+M2 Heat Set Inserts,1
+Total,19
+
 
 
 <img width="769" height="447" alt="image" src="https://github.com/user-attachments/assets/e69d5388-63ea-400e-954b-d2e18ffedd33" />
